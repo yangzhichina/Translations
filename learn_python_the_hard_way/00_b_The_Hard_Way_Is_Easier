@@ -1,22 +1,43 @@
 The Hard Way Is Easier
-其实路没那么难走
+路没那么难走
 
 This simple book is meant to get you started in programming. The title says it's the hard way to learn to write code; but it's actually not. It's only the "hard" way because it's the way people used to teach things. With the help of this book, you will do the incredibly simple things that all programmers need to do to learn a language:
 这本小书就是要让你开始编程。虽然书名上说“学写代码不容易”，其实也不然。之所以我们只提到“不容易”，是因为人们原来就是这么教别人的。不过有了本书的帮助，您也会很容易的上手一种编程语言，就像所有程序员所做的一样：
 
-1. Go through each exercise.每个章节统统看一遍。
-2. Type in each sample exactly.每个例子统统敲一遍。
-3. Make it run.还要都运行一遍。
+1. Go through each exercise.所有章节统统看一遍。
+2. Type in each sample exactly.所有例子统统敲一遍。
+3. Make it run.还要统统运行一遍。
 
 That's it. This will be very difficult at first, but stick with it. If you go through this book, and do each exercise for one or two hours a night, you will have a good foundation for moving onto another book. You might not really learn "programming" from this book, but you will learn the foundation skills you need to start learning the language.
+这就足够了。开始的时候会有些难，但是要坚持。如果你看完本书，并且每晚做一到两个小时练习，那么你就有基础看其他的书了。可能你从本书学不到“真正的编程”，但是你会学到所需的基础技术，从而有能力开始学习这门编程语言。
+
 This book's job is to teach you the three most essential skills that a beginning programmer needs to know: Reading and Writing, Attention to Detail, Spotting Differences.
+本书的工作是教会你3个基本技巧，它们是初级程序员需要掌握的技巧：
+1. 阅读和编写
+2. 专注细节
+3. 区分不同
+
 Reading and Writing
+阅读和编写
+
 It seems stupidly obvious, but, if you have a problem typing, you will have a problem learning to code. Especially if you have a problem typing the fairly odd characters in source code. Without this simple skill you will be unable to learn even the most basic things about how software works.
+这再明显不过了，但是，如果你“打字”有问题，那么“敲代码”也会有问题，特别的是，如果你敲不出源代码里那些特别奇怪的字符。如果掌握不了这个简单的技巧，那么你会连那些最基本的“软件工作原理”都学不会。
+
 Typing the code samples and getting them to run will help you learn the names of the symbols, get familiar with typing them, and get you reading the language.
+用键盘敲入例子代码，并且运行这些代码，有助于你学习这些符号的名称、而且让你打字更熟练、更能让你阅读这门语言。
+
 Attention to Detail
+专注细节
+
 The one skill that separates bad programmers from good programmers is attention to detail. In fact, it's what separates the good from the bad in any profession. Without paying attention to the tiniest details of your work, you will miss key elements of what you create. In programming, this is how you end up with bugs and difficult-to-use systems.
+这个能够区分好坏程序员的技巧就是“专注细节”。其实，在所有行当里，它都有这个作用。如果你不能注意到工作上哪怕是最细小的细节，那么你就会与最关键的元素失之交臂，从而无法创造出你想要的东西。从编程角度来讲，“到处是Bug”以及“非常难用”的系统，就是这么搞出来的。
+
 By going through this book, and copying each example exactly, you will be training your brain to focus on the details of what you are doing, as you are doing it.
+通过仔细阅读本书，仔细学习每一个例子，你将会把你的大脑训练成“时刻专注你正在做的事情”，因为你正在做。
+
 Spotting Differences
+区分不同
+
 A very important skill -- that most programmers develop over time -- is the ability to visually notice differences between things. An experienced programmer can take two pieces of code that are slightly different and immediately start pointing out the differences. Programmers have invented tools to make this even easier, but we won't be using any of these. You first have to train your brain the hard way, then you can use the tools.
 While you do these exercises, typing each one in, you will be making mistakes. It's inevitable; even seasoned programmers would make a few. Your job is to compare what you have written to what's required, and fix all the differences. By doing so, you will train yourself to notice mistakes, bugs, and other problems.
 Do Not Copy-Paste
